@@ -187,6 +187,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  padding: 4px;
 }
 
 .section__text__p2 {
