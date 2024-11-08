@@ -5,8 +5,18 @@ function toggleMenu() {
     icon.classList.toggle("open");
   }
 
-  function toggleMenu() {
-    const menuLinks = document.querySelector('.menu-links');
-    menuLinks.classList.toggle('active'); // Toggle class for display
-  }
+  
+  // //Dark mode
+  // function toggleTheme() {
+  //   document.body.classList.toggle("dark-theme");
+  //   const themeToggleButton = document.getElementById("theme-toggle");
+    
+  //   // Change icon based on the theme
+  //   if (document.body.classList.contains("dark-theme")) {
+  //     themeToggleButton.textContent = "☀️"; // Light mode icon
+  //   } else {
+  //     themeToggleButton.textContent = "🌙"; // Dark mode icon
+  //   }
+  // }
+  
   

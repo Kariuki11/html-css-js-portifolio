@@ -435,7 +435,7 @@ footer p {
 
 
 
-/* Define default theme (Light) */
+/* Define default theme (Light)
 :root {
   --bg-color: #ffffff;
   --text-color: #333333;
@@ -445,16 +445,16 @@ footer p {
 }
 
 /* Dark theme */
-.dark-theme {
+/* .dark-theme {
   --bg-color: #333333;
   --text-color: #ffffff;
   --nav-bg-color: #444444;
   --button-bg-color: #1a73e8;
   --button-text-color: #ffffff;
-}
+} */
 
 /* Apply the variables */
-body {
+/* body {
   background-color: var(--bg-color);
   color: var(--text-color);
 }
@@ -466,14 +466,14 @@ nav {
 button {
   background-color: var(--button-bg-color);
   color: var(--button-text-color);
-}
+} */
 
 /* Optional: Style the theme toggle button */
-#theme-toggle {
+/* #theme-toggle {
   cursor: pointer;
   border: none;
   background: none;
   font-size: 1.2rem;
   margin-left: 10px;
 }
-
+ */ 
